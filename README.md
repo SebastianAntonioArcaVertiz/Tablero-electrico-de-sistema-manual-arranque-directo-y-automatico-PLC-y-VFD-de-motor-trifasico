@@ -20,6 +20,8 @@ Este repositorio contiene la documentación técnica, los esquemas eléctricos y
 
 **\***   **Normativa Eléctrica:** Dimensionamiento de conductores (14 AWG y 16 AWG) y protecciones selectivas con disyuntores de Curva C según el Código Nacional de Electricidad (CNE-Utilización) y la NTP 370.301 / IEC 60364-5-523.
 
+**\***   **Normativa de seguridad:** Se cumple con los entándares de la ley 29783 y la gestion de seguridad y salud en el trabajo, se adjunta los documentos IPERC y ATS de prueba que se utilizaron y se entregaron en el proyecto.
+
 **\***   **Simbología:** Estándar IEC 60617.
 
 
